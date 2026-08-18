@@ -13,7 +13,7 @@
 
 ## 3. ER-модель базы данных
 
-![ER-модель]([er_model.png](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png))
+![ER-модель](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er-d.png)
 
 *Отображает основные сущности: `Tariff`, `Rule`, `History` и связи между ними («один ко многим»). Сгенерировано в PlantUML.*
 
