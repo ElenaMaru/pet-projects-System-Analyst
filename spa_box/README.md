@@ -8,12 +8,12 @@
 
 ## 2. User story и use case
 
-Файл: [`User Story & Use Cases.docx`]([[User Story & Use Cases.docx]((https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/User%20Story%20%26%20Use%20Cases.docx)]
+Файл: [`User Story & Use Cases.docx`]([User Story & Use Cases.docx](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/User%20Story%20%26%20Use%20Cases.docx))
 
 
 ## 3. ER-модель базы данных
 
-![ER-модель](er_model.png)
+![ER-модель]([er_model.png](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png))
 
 *Отображает основные сущности: `Tariff`, `Rule`, `History` и связи между ними («один ко многим»). Сгенерировано в PlantUML.*
 
