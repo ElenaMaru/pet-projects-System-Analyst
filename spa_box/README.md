@@ -2,7 +2,7 @@
 
 ## 1. BRD (Business Requirements Document)
 
-Файл: [`BRD (Business Requirements Document).docx`](BRD (Business Requirements Document).docx)
+Файл: [`BRD (Business Requirements Document).docx`]([BRD (Business Requirements Document).docx](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/BRD%20(Business%20Requirements%20Document).docx))
 
 *Описывает цели проекта, целевую аудиторию и бизнес-ценность*
 
