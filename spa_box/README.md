@@ -6,13 +6,18 @@
 
 *Описывает цели проекта, целевую аудиторию и бизнес-ценность*
 
-## 2. ER-модель базы данных
+## 2. User story и use case
 
-![ER-модель таблиц тарификатора](er_model.png)
+Файл: [`User Story & Use Cases.docx`]([[User Story & Use Cases.docx]((https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/User%20Story%20%26%20Use%20Cases.docx)]
+
+
+## 3. ER-модель базы данных
+
+![ER-модель](er_model.png)
 
 *Отображает основные сущности: `Tariff`, `Rule`, `History` и связи между ними («один ко многим»). Сгенерировано в PlantUML.*
 
-## 3. UML-диаграмма классов
+## 4. UML-диаграммы
 
 ![UML-диаграмма классов](uml_classes.png)
 
