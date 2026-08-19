@@ -18,6 +18,10 @@
 
 *Отображает основные сущности: `Customers`, `Orders`, `Order_Items`, `Boxs` и связи между ними. Сгенерировано в PlantUML.*
 
+Файл: [`Data base.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/Data%20base.docx)
+
+*Описывает схему реляционной базы данных, создание ER-диаграммы и SQL-скрипт для создания БД (для PostgreSQL).*
+
 ## 4. UML-диаграммы
 
 ![UML-диаграмма авторизации](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/autor.png)
