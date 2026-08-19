@@ -28,8 +28,23 @@
 
 *Иллюстрирует процесс покупки спа-боксов. Сгенерировано в PlantUML.*
 
-Файл: [`UML.docx`]((https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/UML.docx))
+Файл: [`UML.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/UML.docx)
 
+## 5. Системные требования
+
+Файл: [`System req.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/System%20req.docx)
+
+*Описывает перечень системных требований, функциональные требования, нефункциональные требования и требования приемки.*
+
+## 6. Интерфейсные решения
+
+Файл: [`Interfaces.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/Interfaces.docx)
+
+*Описывает дизайн мини-приложения. Экраны сгенерированы с помощью нейросети.*
+
+![Интерфейс 1](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/1.jpg)
+![Интерфейс 2](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/2.jpg)
+![Интерфейс 3](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/3.jpg)
 
 ## 4. User story и use case
 
