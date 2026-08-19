@@ -46,6 +46,7 @@
 ![Интерфейс 2](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/2.jpg)
 ![Интерфейс 3](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/3.jpg)
 
+
 ## 4. User story и use case
 
 **User story:**
