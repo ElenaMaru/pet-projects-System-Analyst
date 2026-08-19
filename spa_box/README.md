@@ -56,6 +56,6 @@
 
 Файл: [`API.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/API.docx)
 
-*Описывает основные операции REST API для управления заказами в приложении и возвращает JSON с деталями.*
+*Описывает основные операции REST API для управления заказами в приложении и возвращает JSON с деталями и возможными ошибками.*
 
 > **Инструменты:**  PlantUML, REST API
