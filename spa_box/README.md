@@ -46,25 +46,16 @@
 ![Интерфейс 2](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/2.jpg)
 ![Интерфейс 3](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/3.jpg)
 
+## 7. Тестирование
 
-## 4. User story и use case
+Файл: [`Test.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/Test.docx)
 
-**User story:**
+*Описывает перечень базовых тест-кейсов для тестирования.*
 
-> «Как пользователь, я хочу получить актуальный тариф по своей подписке, чтобы узнать стоимость услуги заранее.»
+## 7. API спецификация
 
-**Use case:**
+Файл: [`API.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/API.docx)
 
-1. Пользователь отправляет запрос `GET /tariffs/{userId}`
+*Описывает основные операции REST API для управления заказами в приложении и возвращает JSON с деталями.*
 
-2. Система проверяет права доступа
-
-3. Система рассчитывает тариф и возвращает JSON с деталями
-
-## 5. Техническое задание (SRS)
-
-Файл: [`srs_dynamic_tariff.docx`](srs_dynamic_tariff.docx)
-
-*Кратко описаны цель проекта, входные/выходные параметры API и критерии приёмки.*
-
-> **Инструменты:** Jira, Confluence, PlantUML, Swagger/OpenAPI, PostgreSQL, Power BI
+> **Инструменты:**  PlantUML, REST API
