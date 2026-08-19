@@ -4,24 +4,32 @@
 
 Файл: [`BRD (Business Requirements Document).docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/BRD%20(Business%20Requirements%20Document).docx)
 
-*Описывает цели проекта, целевую аудиторию и бизнес-ценность*
+*Описывает цели проекта, целевую аудиторию и бизнес-ценность.*
 
 ## 2. User story и use case
 
-Файл: [`User Story & Use Cases.docx`]([User Story & Use Cases.docx](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/User%20Story%20%26%20Use%20Cases.docx))
+Файл: [`User Story & Use Cases.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/User%20Story%20%26%20Use%20Cases.docx)
 
+*Описывает пользовательские истории (User Stories) и сценарий взаимодействия.*
 
 ## 3. ER-модель базы данных
 
 ![ER-модель](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er-d.png)
 
-*Отображает основные сущности: `Tariff`, `Rule`, `History` и связи между ними («один ко многим»). Сгенерировано в PlantUML.*
+*Отображает основные сущности: `Customers`, `Orders`, `Order_Items`, `Boxs` и связи между ними. Сгенерировано в PlantUML.*
 
 ## 4. UML-диаграммы
 
-![UML-диаграмма классов](uml_classes.png)
+![UML-диаграмма авторизации](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/autor.png)
 
-*Показывает структуру сервисного слоя приложения: классы `TariffService`, `RuleValidator`, `RateCalculator` и их методы.*
+*Иллюстрирует процесс авторизации пользователя в мини-приложении. Сгенерировано в PlantUML.*
+
+![UML-диаграмма покупки](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/buy.png)
+
+*Иллюстрирует процесс покупки спа-боксов. Сгенерировано в PlantUML.*
+
+Файл: [`UML.docx`]((https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/UML.docx))
+
 
 ## 4. User story и use case
 
