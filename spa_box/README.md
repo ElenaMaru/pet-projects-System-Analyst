@@ -14,7 +14,7 @@
 
 ## 3. ER-модель базы данных
 
-![ER-модель](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er-d.png)
+![ER-модель](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/er.png)
 
 *Отображает основные сущности: `Customers`, `Orders`, `Order_Items`, `Boxs` и связи между ними. Сгенерировано в PlantUML.*
 
