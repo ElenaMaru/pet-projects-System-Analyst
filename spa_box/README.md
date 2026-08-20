@@ -56,7 +56,7 @@
 
 *Описывает перечень базовых тест-кейсов для тестирования.*
 
-## 7. API спецификация
+## 8. API спецификация
 
 Файл: [`API.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/API.docx)
 
