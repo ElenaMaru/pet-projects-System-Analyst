@@ -3,3 +3,4 @@
 | --- | --- | --- |
 | [spa_box](https://github.com/ElenaMaru/pet-projects-System-Analyst/tree/main/spa_box) | Проект «Мини-приложение по продаже подарочных спа-боксов». | PlantUML, REST API, JSON, SQL, нейросети|
 | [vintage](https://github.com/ElenaMaru/pet-projects-System-Analyst/tree/main/vintage) | Проект «Минималистичный интернет-магазин уникальной винтажной одежды». |PlantUML, REST API, JSON, SQL, нейросети|
+| [baby_clo](https://github.com/ElenaMaru/pet-projects-System-Analyst/tree/main/baby_clo) |Проект «Интернет-магазин детской одежды». |PlantUML, REST API, JSON, SQL, нейросети|
