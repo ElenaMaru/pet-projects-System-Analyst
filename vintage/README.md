@@ -55,9 +55,9 @@
 
 ## 7. API спецификация
 
-Файл: [`API.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/spa_box/file/API.docx)
+Файл: [`API.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/vintage/file/API.docx)
 
-*Описывает основные операции REST API для управления заказами в приложении и возвращает JSON с деталями и возможными ошибками.*
+*Описывает основные операции REST API для управления заказами интернет-магазина и возвращает JSON с деталями и возможными ошибками.*
 
 > **Инструменты:**  PlantUML, REST API, SQL, нейросети.
 
