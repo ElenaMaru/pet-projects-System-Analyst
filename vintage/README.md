@@ -40,7 +40,7 @@
 
 Файл: [`Interface.docx`](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/vintage/file/Interface.docx)
 
-*Описывает дизайн минималистичного сайта. Экраны сгенерированы с помощью нейросети.*
+*Описывает дизайн минималистичного интернет-магазина. Экраны сгенерированы с помощью нейросети.*
 
 ![Интерфейс 1](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/vintage/file/1.jpg)
 ![Интерфейс 2](https://github.com/ElenaMaru/pet-projects-System-Analyst/blob/main/vintage/file/2.jpg)
